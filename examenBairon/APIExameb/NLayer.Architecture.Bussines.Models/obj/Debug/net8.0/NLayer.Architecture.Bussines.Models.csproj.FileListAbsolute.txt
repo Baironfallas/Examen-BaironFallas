@@ -1,0 +1,11 @@
+C:\Users\falla\Videos\examenBairon\APIExameb\NLayer.Architecture.Bussines.Models\bin\Debug\net8.0\NLayer.Architecture.Bussines.Models.deps.json
+C:\Users\falla\Videos\examenBairon\APIExameb\NLayer.Architecture.Bussines.Models\bin\Debug\net8.0\NLayer.Architecture.Bussines.Models.dll
+C:\Users\falla\Videos\examenBairon\APIExameb\NLayer.Architecture.Bussines.Models\bin\Debug\net8.0\NLayer.Architecture.Bussines.Models.pdb
+C:\Users\falla\Videos\examenBairon\APIExameb\NLayer.Architecture.Bussines.Models\obj\Debug\net8.0\NLayer.Architecture.Bussines.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\falla\Videos\examenBairon\APIExameb\NLayer.Architecture.Bussines.Models\obj\Debug\net8.0\NLayer.Architecture.Bussines.Models.AssemblyInfoInputs.cache
+C:\Users\falla\Videos\examenBairon\APIExameb\NLayer.Architecture.Bussines.Models\obj\Debug\net8.0\NLayer.Architecture.Bussines.Models.AssemblyInfo.cs
+C:\Users\falla\Videos\examenBairon\APIExameb\NLayer.Architecture.Bussines.Models\obj\Debug\net8.0\NLayer.Architecture.Bussines.Models.csproj.CoreCompileInputs.cache
+C:\Users\falla\Videos\examenBairon\APIExameb\NLayer.Architecture.Bussines.Models\obj\Debug\net8.0\NLayer.Architecture.Bussines.Models.dll
+C:\Users\falla\Videos\examenBairon\APIExameb\NLayer.Architecture.Bussines.Models\obj\Debug\net8.0\refint\NLayer.Architecture.Bussines.Models.dll
+C:\Users\falla\Videos\examenBairon\APIExameb\NLayer.Architecture.Bussines.Models\obj\Debug\net8.0\NLayer.Architecture.Bussines.Models.pdb
+C:\Users\falla\Videos\examenBairon\APIExameb\NLayer.Architecture.Bussines.Models\obj\Debug\net8.0\ref\NLayer.Architecture.Bussines.Models.dll

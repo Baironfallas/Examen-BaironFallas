@@ -1,0 +1,15 @@
+C:\Users\falla\Videos\examenBairon\APIExameb\NLayer.Architecture.Bussines\bin\Debug\net8.0\NLayer.Architecture.Bussines.deps.json
+C:\Users\falla\Videos\examenBairon\APIExameb\NLayer.Architecture.Bussines\bin\Debug\net8.0\NLayer.Architecture.Bussines.dll
+C:\Users\falla\Videos\examenBairon\APIExameb\NLayer.Architecture.Bussines\bin\Debug\net8.0\NLayer.Architecture.Bussines.pdb
+C:\Users\falla\Videos\examenBairon\APIExameb\NLayer.Architecture.Bussines\bin\Debug\net8.0\NLayer.Architecture.Bussines.Models.dll
+C:\Users\falla\Videos\examenBairon\APIExameb\NLayer.Architecture.Bussines\bin\Debug\net8.0\NLayer.Architecture.Bussines.Models.pdb
+C:\Users\falla\Videos\examenBairon\APIExameb\NLayer.Architecture.Bussines\obj\Debug\net8.0\NLayer.Architecture.Bussines.csproj.AssemblyReference.cache
+C:\Users\falla\Videos\examenBairon\APIExameb\NLayer.Architecture.Bussines\obj\Debug\net8.0\NLayer.Architecture.Bussines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\falla\Videos\examenBairon\APIExameb\NLayer.Architecture.Bussines\obj\Debug\net8.0\NLayer.Architecture.Bussines.AssemblyInfoInputs.cache
+C:\Users\falla\Videos\examenBairon\APIExameb\NLayer.Architecture.Bussines\obj\Debug\net8.0\NLayer.Architecture.Bussines.AssemblyInfo.cs
+C:\Users\falla\Videos\examenBairon\APIExameb\NLayer.Architecture.Bussines\obj\Debug\net8.0\NLayer.Architecture.Bussines.csproj.CoreCompileInputs.cache
+C:\Users\falla\Videos\examenBairon\APIExameb\NLayer.Architecture.Bussines\obj\Debug\net8.0\NLayer.A.FD8964EC.Up2Date
+C:\Users\falla\Videos\examenBairon\APIExameb\NLayer.Architecture.Bussines\obj\Debug\net8.0\NLayer.Architecture.Bussines.dll
+C:\Users\falla\Videos\examenBairon\APIExameb\NLayer.Architecture.Bussines\obj\Debug\net8.0\refint\NLayer.Architecture.Bussines.dll
+C:\Users\falla\Videos\examenBairon\APIExameb\NLayer.Architecture.Bussines\obj\Debug\net8.0\NLayer.Architecture.Bussines.pdb
+C:\Users\falla\Videos\examenBairon\APIExameb\NLayer.Architecture.Bussines\obj\Debug\net8.0\ref\NLayer.Architecture.Bussines.dll
